@@ -1,0 +1,20 @@
+body{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+section{
+    box-sizing: border-box;
+    height:100vh;
+    padding: 10vh 10vw;
+}
+
+section > .header-section{
+    padding-bottom: 5vh;
+}
+
+section > .name-container{
+    padding-top: 10vh;
+    font-family: 'Roboto', sans-serif;
+}
